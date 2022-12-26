@@ -1,0 +1,48 @@
+body {
+  background-color: #111426;
+  color: #fff;
+  font-family: monospace;
+  font-size: 16px;
+}
+
+a {
+  color: #93AEBF;
+}
+
+img {
+  border-radius: 50;
+  border: 1px solid #93AEBF;
+}
+
+.container {
+  padding: 30px;
+  margin: 20px;
+  border: 1px solid white;
+  background-color: #1B2440;
+  box-shadow: 1px 0px 2px 1px #fff;
+}
+
+.profile-pic{
+  border-radius: 50%;
+}
+
+h3{
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+}
+
+table{
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+}
+
+.reachme{
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+}
